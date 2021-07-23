@@ -6,7 +6,9 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Proyecto Diagnostico</title>
+    <!--se utilizo boostrap para darle un mejor aspecto y orden al proyecto-->
     <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <!--se utilizo jquery principalmente para el envio de los formulario-->
     <script src="js/jquery-3.6.0.js"></script>
 </head>
 <body>
@@ -120,6 +122,7 @@
         </div>
     </div>
 </div>
+<!--apartado de scripts de bootstrap y el del envio del formulario-->
 <script src="js/bootstrap.min.js"></script>
 <script src="js/bootstrap.js"></script>
 <script src="js/EnvioForm.js"></script>
